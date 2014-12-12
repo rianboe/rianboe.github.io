@@ -3,6 +3,14 @@
   
   
   <url>
+    <loc>/My-first-blog/</loc>
+    
+    <lastmod>2014-12-12T00:00:00+08:00</lastmod>
+    
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>/background-image/</loc>
     
     <lastmod>2013-10-26T00:00:00+08:00</lastmod>
@@ -69,42 +77,42 @@
   
   <url>
     <loc>/404.html</loc>
-    <lastmod>2014-12-12T15:50:51+08:00</lastmod>
+    <lastmod>2014-12-12T17:23:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/posts/</loc>
-    <lastmod>2014-12-12T15:50:51+08:00</lastmod>
+    <lastmod>2014-12-12T17:23:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2014-12-12T15:50:51+08:00</lastmod>
+    <lastmod>2014-12-12T17:23:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2014-12-12T15:50:51+08:00</lastmod>
+    <lastmod>2014-12-12T17:23:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
     <loc>/theme-setup/</loc>
-    <lastmod>2014-12-12T15:50:51+08:00</lastmod>
+    <lastmod>2014-12-12T17:23:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>/about/</loc>
-    <lastmod>2014-12-12T15:50:51+08:00</lastmod>
+    <lastmod>2014-12-12T17:23:20+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
